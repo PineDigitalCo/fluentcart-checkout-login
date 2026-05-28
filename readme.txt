@@ -8,7 +8,8 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Lets guests log in from the FluentCart checkout page and stay on checkout after signing in (reuses FluentCart’s REST login).
+FluentCart is missing what's a deal-breaker feature for some, and that's the ability for guests to log in during the check out process.
+This plugin allows guests log in from the FluentCart checkout page and stay on checkout after signing in (reuses FluentCart’s REST login).
 
 == AI Disclosure ==
 
@@ -17,4 +18,5 @@ Lets guests log in from the FluentCart checkout page and stay on checkout after 
 
 == Description ==
 
-Lets guests log in from the FluentCart checkout page and stay on checkout after signing in (reuses FluentCart’s REST login).
+FluentCart is missing what's a deal-breaker feature for some, and that's the ability for guests to log in during the check out process.
+This plugin allows guests log in from the FluentCart checkout page and stay on checkout after signing in (reuses FluentCart’s REST login).
